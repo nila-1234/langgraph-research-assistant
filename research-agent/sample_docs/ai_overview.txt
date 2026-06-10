@@ -1,0 +1,29 @@
+Artificial Intelligence: An Overview
+
+Artificial intelligence (AI) refers to the simulation of human intelligence in machines programmed to think and learn. The field was formally founded at a Dartmouth conference in 1956 by researchers including John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon.
+
+## Key Subfields
+
+**Machine Learning (ML)** enables systems to learn from data without being explicitly programmed. Supervised learning, unsupervised learning, and reinforcement learning are its three main paradigms.
+
+**Deep Learning** uses neural networks with many layers to model complex patterns. Convolutional Neural Networks (CNNs) excel at image recognition; Recurrent Neural Networks (RNNs) and Transformers handle sequential data like text.
+
+**Natural Language Processing (NLP)** allows machines to understand, interpret, and generate human language. Large Language Models (LLMs) such as GPT-4, Claude, and Gemini are trained on vast text corpora and can perform a wide range of language tasks including summarization, translation, question answering, and code generation.
+
+**Computer Vision** enables machines to interpret and make decisions based on visual data from images and video. Applications include autonomous vehicles, medical imaging analysis, and facial recognition.
+
+**Reinforcement Learning** trains agents to make sequences of decisions by rewarding desired behaviours. Notable achievements include AlphaGo defeating world champion Go players and AlphaFold predicting protein structures.
+
+## Recent Advances
+
+The transformer architecture (Vaswani et al., 2017) underpins most modern LLMs. Pre-training on large corpora followed by fine-tuning on task-specific data has become the dominant paradigm. Retrieval-Augmented Generation (RAG) combines LLMs with external knowledge bases to reduce hallucination and improve factual accuracy.
+
+Multimodal models such as GPT-4o and Gemini 1.5 Pro can process text, images, audio, and video within a single model, opening new application areas in robotics, accessibility, and creative tools.
+
+## Ethical Considerations
+
+AI raises important concerns around bias, privacy, job displacement, and autonomous weapons. Responsible AI development emphasises transparency, fairness, accountability, and human oversight. Organisations such as the Partnership on AI and government bodies worldwide are working to establish governance frameworks.
+
+## Applications
+
+AI is transforming industries including healthcare (diagnostic imaging, drug discovery), finance (fraud detection, algorithmic trading), education (personalised tutoring), and scientific research (climate modelling, materials science).
